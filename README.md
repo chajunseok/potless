@@ -117,5 +117,5 @@
 
 # 👨‍👩‍👧‍👧팀 구성
 
-<img src="/readme_image/KakaoTalk_20250316_211645933.jpg" width="50%">
+<img src="/readme_image/KakaoTalk_20250316_211645933.jpg" width="80%">
 정휘원, 차준석, 이채은, 권준구, 김민건, 최소영, 이희병
